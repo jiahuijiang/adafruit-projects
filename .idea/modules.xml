@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/breathing-sloth.iml" filepath="$PROJECT_DIR$/.idea/breathing-sloth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/adafruit-projects.iml" filepath="$PROJECT_DIR$/.idea/adafruit-projects.iml" />
     </modules>
   </component>
 </project>
